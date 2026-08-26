@@ -6,7 +6,9 @@ correspondente.
 */
 #include <stdio.h>
 
-int main()
+int main() 
 {
-
+int anoNascimento = 2008;
+    printf("Eu nasci em %d",anoNascimento);
+    return 0;
 }
